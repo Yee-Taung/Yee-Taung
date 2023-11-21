@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning Computer Science.
 
 - 💬 Ask me about **anything**!
+
+- 😄 Pronouns: Him
   
 [![An image of @yeetaung's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yeetaung)](https://holopin.io/@yeetaung)
 <!--
